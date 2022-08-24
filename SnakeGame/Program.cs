@@ -7,7 +7,7 @@ namespace SnakeGame
         static void Main(string[] args)
         {
             Game game = new Game();
-            game.Play();
+            player.Play();
         }
     }
 }
